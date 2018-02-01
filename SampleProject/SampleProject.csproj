@@ -19,6 +19,8 @@
     <IISExpressAnonymousAuthentication />
     <IISExpressWindowsAuthentication />
     <IISExpressUseClassicPipelineMode />
+    <Use64BitIISExpress />
+    <UseGlobalApplicationHostFile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -63,6 +65,7 @@
     <Content Include="css\font-awesome.min.css" />
     <Content Include="css\SampleStyles.css" />
     <Content Include="fonts\fontawesome-webfont.svg" />
+    <Content Include="hello.html" />
     <Content Include="HomePage.aspx" />
     <Content Include="HomePage.html" />
     <Content Include="img\bg.jpg" />
