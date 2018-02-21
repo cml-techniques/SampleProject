@@ -16,5 +16,10 @@ namespace SampleProject
                 Response.Write("Corrected");
             }
         }
+        void testdoc()
+        {
+            Console.Write("Added Procedure"); 
+
+        }
     }
 }
