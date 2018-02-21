@@ -2,3 +2,10 @@ c:\users\joseph\documents\visual studio 2012\Projects\SampleProject\SampleProjec
 c:\users\joseph\documents\visual studio 2012\Projects\SampleProject\SampleProject\bin\SampleProject.pdb
 c:\users\joseph\documents\visual studio 2012\Projects\SampleProject\SampleProject\obj\Debug\SampleProject.dll
 c:\users\joseph\documents\visual studio 2012\Projects\SampleProject\SampleProject\obj\Debug\SampleProject.pdb
+C:\Users\Administrator\Desktop\NewG\SampleProject\SampleProject\bin\SampleProject.dll.config
+C:\Users\Administrator\Desktop\NewG\SampleProject\SampleProject\bin\SampleProject.dll
+C:\Users\Administrator\Desktop\NewG\SampleProject\SampleProject\bin\SampleProject.pdb
+C:\Users\Administrator\Desktop\NewG\SampleProject\SampleProject\obj\Debug\SampleProject.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\NewG\SampleProject\SampleProject\obj\Debug\SampleProject.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\NewG\SampleProject\SampleProject\obj\Debug\SampleProject.dll
+C:\Users\Administrator\Desktop\NewG\SampleProject\SampleProject\obj\Debug\SampleProject.pdb
