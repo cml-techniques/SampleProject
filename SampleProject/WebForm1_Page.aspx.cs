@@ -14,12 +14,19 @@ namespace SampleProject
             if (Page.IsPostBack)
             {
                 Response.Write("Corrected");
+                testdoc();
             }
         }
         void testdoc()
         {
-            Console.Write("Added Procedure"); 
+            Console.Write("Added Procedure");
 
+            Summary();
+
+        }
+        void Summary()
+        {
+          Console.Write("Summary");
         }
     }
 }
